@@ -1,2 +1,2 @@
 # kotlin
-Some practices on Kotlin features that might be shared with others later.
+Some practices on Kotlin that might be shared with others later.
