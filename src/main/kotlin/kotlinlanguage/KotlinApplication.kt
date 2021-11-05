@@ -1,5 +1,3 @@
 package kotlinlanguage
 
-fun main() {
-
-}
+fun main() {}
